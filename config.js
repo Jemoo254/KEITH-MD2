@@ -17,9 +17,9 @@ global.github = process.env.GITHUB || "https://github.com/Keithkeizzah/KEITH-MD2
 global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47";
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029Vaan9TF9Bb62l8wpoD47";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/8f30391e98707c9344db0.jpg";
-global.devs = "254748387615";
-global.sudo = process.env.SUDO || "254748387615";
-global.owner = process.env.OWNER_NUMBER || "254748387615";
+global.devs = "254723599888";
+global.sudo = process.env.SUDO || "254723599888";
+global.owner = process.env.OWNER_NUMBER || "254723599888";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "true";
 global.wlcm = process.env.WELCOME || "true";
@@ -41,7 +41,7 @@ global.api_smd = "https://api-smd-1.vercel.app";
 global.scan = "https://keithweb-85c830c44249.herokuapp.com/";
 
 global.SESSION_ID =
-  process.env.SESSION_ID ||
+  process.env.SESSION_ID |Session~BFtZUJ22|
   ""
 module.exports = {
   menu: process.env.MENU || "",
